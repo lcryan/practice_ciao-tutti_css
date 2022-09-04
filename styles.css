@@ -22,11 +22,9 @@ h1, h2, h3 {
     width: 100%;
 }
 
-
-/* 5: Er staan meerdere links in het document. Zorg ervoor dat alléén de links in de navigatiebalk de tekstkleur
-"indianred" krijgen.
-Tip: gebruik hier een combinator voor */
-
+li > a {
+    color: indianred;
+}
 /* 5 muss noch geloest werden!!! siehe oben */
 
 
