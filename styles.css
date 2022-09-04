@@ -39,9 +39,11 @@ ul > li {
 
 /* 8: De buttons lijken op dit moment te veel op elkaar. Zorg ervoor dat je de rechter button een achtergrondkleur van "indianred"
 kunt geven. Tip: gebruik hier een combinator voor. */
-button + sign off {
+button + button {
     background-color: indianred;
 }
+
+
 /* oben 8! noch nicht geloest */
 
 .text-field:active {
